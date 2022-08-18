@@ -1,1 +1,1 @@
-# -JavaBootcamp_Day2
+# JavaBootcamp_Day2
